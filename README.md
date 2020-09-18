@@ -50,9 +50,6 @@ To be added, will have frequently asked questions including updates to the corpu
   
 To be added, definitions for each of the labels
 
-
-To be added, a readme detailing the rules and steps followed to create the document
-corpus.
   
 
     ./docs/annotation_*.txt :
