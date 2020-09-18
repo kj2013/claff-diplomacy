@@ -16,12 +16,9 @@ Our dataset is available under CC BY 4.0 license (https://creativecommons.org/li
 
 TBA
 
-## Corpus details (TBA)
+## Corpus details 
 
-**Unlabeled training set** :
-
-**UNLABELED POSTS:** 
-
+**Unlabeled training set** : RELEASED! The Diplomacy dataset from (http://vene.ro/betrayal/)
 
 **Labeled training set** : 
 
@@ -39,17 +36,17 @@ TBA, Check out the annotation instructions under /docs/.
 This is the open repository for Affect Understanding in Text and Annotations contributed to the public through the collaboration between the National University of Singapore and Adobe Research India.
 
 
-    ./README.md
+    ./README.md :
  
 This file.
 
 
-    ./FAQ2020
+    ./FAQ2020 :
 	
 To be added, will have frequently asked questions including updates to the corpus.
 
 
-    ./docs/labeldescriptions.txt
+    ./docs/labeldescriptions.txt :
   
 To be added, definitions for each of the labels
 
@@ -58,24 +55,24 @@ To be added, a readme detailing the rules and steps followed to create the docum
 corpus.
   
 
-    ./docs/annotation_*.txt
+    ./docs/annotation_*.txt :
   
 To be added, rules followed for the annotation.
 
 
-    ./data/unlabeled data
+    ./data/unlabeled data :
   
-To be added, directory containing unlabeled data pertaining to the training and the test sets.
+Directory containing unlabeled data pertaining to the training and the test sets.
 
 
     ./data/training data
   
-Directory containing the training set.
+To be added, directory containing the training set.
 
 
     ./data/test data
 
-Directory containing the test set.
+To be added, directory containing the test set.
 
 
 
