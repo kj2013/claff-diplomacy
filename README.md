@@ -6,7 +6,7 @@ A part of the AffCon Workshop @ AAAI 2021 for Affect in Collaborative Creation
 
 We introduce the CLAff-GoTeam dataset this year, which examines the role of affect in inter- and intra-team trust. It builds on the Diplomacy dataset () with additional annotations, and derived outcomes related to collaborations.
 
-**UPDATED SYSTEM RUNS SUBMISSION DEADLINE: December 18, 2019** 
+**Registration Deadline Nov 4, 2020** 
 
 # LICENSE
 
