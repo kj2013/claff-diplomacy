@@ -1,3 +1,6 @@
+#PSA: This is the unsupervised training data for the CL-Aff Shared Task 2021. The actual labeled data and label descriptions will be released in October 2020 into the ./data/training data folder.
+
+
 Diplomacy Betrayal Dataset
 ==========================
 
