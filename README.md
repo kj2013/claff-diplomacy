@@ -24,9 +24,9 @@ TASK 2: Unsupervised task: Explore the relationship between rapport and the rece
 
 **Unlabeled training set** : RELEASED! The Diplomacy dataset from (http://vene.ro/betrayal/)
 
-**Labeled training set** : 
+**Labeled training set** : ETA Oct 20, 2020
 
-**Test set:** 
+**Test set:** ETA Nov 20, 2020. Only released to registered participants.
 
 
 ## Label descriptions
