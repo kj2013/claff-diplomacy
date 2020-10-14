@@ -14,7 +14,11 @@ Our dataset is available under CC BY 4.0 license (https://creativecommons.org/li
 
 ## The Tasks
 
-TBA
+GIVEN: Utterances by players in an online game called Diplomacy, labeled for their rapport characteristics.
+
+TASK 1 : Semi-supervised learning task: Predict labels for how the speaker is building a rapport, based on a small labeled and large unlabeled training data.
+
+TASK 2: Unsupervised task: Explore the relationship between rapport and the receiver's trust labels.
 
 ## Corpus details 
 
@@ -27,7 +31,7 @@ TBA
 
 ## Label descriptions
 
-TBA, Check out the annotation instructions under /docs/.
+Check out the annotation instructions under /docs/.
 
 
 
@@ -41,20 +45,20 @@ This is the open repository for Affect Understanding in Text and Annotations con
 This file.
 
 
-    ./FAQ2020 :
+    ./FAQ2021 :
 	
 To be added, will have frequently asked questions including updates to the corpus.
 
 
-    ./docs/labeldescriptions.txt :
+    ./docs/annotation_instructions.html :
   
-To be added, definitions for each of the labels
+Annotation instructions for each of the labels
 
   
 
-    ./docs/annotation_*.txt :
+    ./docs/annotation_task.html :
   
-To be added, rules followed for the annotation.
+The actual AMT task
 
 
     ./data/unlabeled data :

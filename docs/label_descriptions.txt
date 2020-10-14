@@ -1,0 +1,64 @@
+GAME MOVE
+The sender states an actual or suggested game move by the sender or the receiver. It might also be in the form of an acceptance, a question, or a clarification.	
+I'm attempting to make that deal with russia now
+I am committed to supporting Munich holding;
+I think the most important thing for you right now is getting England fully committed against France
+Why would you want me to strike war with England?
+Make sure you don't move Munich so that it can take my support.
+"
+I think the most important thing for you right now is getting England fully committed against France
+I suggest that you order: Kiel support Berlin holding...
+I strongly recommend it.
+
+
+BUILDING A RAPPORT = TRUE
+In this statement, the sender wants to build a rapport with the receiver through "you and me" dialogue and personal information sharing. This might also comprise compliments, sharing honest concerns, reassurances, or apologies.	
+Good day to you!
+I won't hold it against you
+You're my favorite
+Sure. But, you'll see from my moves this turn that Austria is lying to you.
+So I'm in a bit of a spot.
+But in the interest of continued full disclosure, here's what I think.
+
+
+BUILDING A RAPPORT = TRUE
+
+COMPLIMENT = TRUE
+In this statement, the sender is greeting or paying a compliment to the reciever.	
+Good day to you Germany!")
+Thanks Italy. Hope you're enjoying the weather on the Anatolian
+Your logic is undenyable enjoy your stay in tyr!
+You are my favorite
+Okay, can do. Thanks!
+Great to hear. Thank you.
+Thanks, I'll work on these.
+
+
+REASSURANCE = TRUE
+In this statement, the sender is reassuring the receiver.	
+I promise I'll never let you down
+I won't hold it against you
+Sure. But, you'll see from my moves this turn that Austria is lying to you.
+I mean it sincerely.
+I'd much rather work with you.
+We'll crack this eventually.
+I'm going to keep helping you as much as I can.
+
+
+APOLOGIES = TRUE
+In this statement, the sender is apologising to the receiver.	
+Sorry I won't be able to cut off Gascony this turn...
+Okay sorry for being nosy! I will try for bur on the off chance it shakes out that way
+Ha! So sorry!! I meant that for France!
+I should've let you know
+
+
+PERSONAL THOUGHTS = TRUE
+In this statement, the sender is expressing his personal thoughts to the receiver.	
+Let's keep it between you and me!
+I like to coordinate, but on these sort of 50/50 guesses, I kind of like to keep it secret so that if it doesnâ€™t go well, I have nobody to blame but myself.
+Hmmmm, okay. Well, letâ€™s just keep that between you and me then.
+Okay, so I still have a teensy little bone to pick with you: on the off-chance that Austria wasn't lying and you *did* take Trieste unexpectedly, I sort of worry that I might be next.
+I have some thoughts on the matter, and some information, but I'd like to feel confident that you and I will keep anything we say between us.
+But in the interest of continued full disclosure, here's what I think
+So I'm in sort of a conflicted spot
