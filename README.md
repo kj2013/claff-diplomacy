@@ -61,19 +61,19 @@ Annotation instructions for each of the labels
 The actual AMT task
 
 
-    ./data/unlabeled data :
+    ./data/unlabeled training data :
   
 Directory containing unlabeled data pertaining to the training and the test sets.
 
 
-    ./data/training data
+    ./data/labeled training data
   
 To be added, directory containing the training set.
 
 
-    ./data/test data
+    TEST DATA?
 
-To be added, directory containing the test set.
+Will be shared with the participants who register.
 
 
 
@@ -107,7 +107,7 @@ Peskov, D., Cheng, B., Elgohary, A., Barrow, J., Danescu-Niculescu-Mizil, C., & 
 
 ## Acknowledgement
 
-We're grateful to Cristian Danescu-Niculescu-Mizil for the original data behind this task. Thank you!
+We're grateful to Cristian Danescu-Niculescu-Mizil and the team of coauthors (Peskov, Cheng, Elgohary, Barrow, Danescu-Niculescu-Mizil, & Boyd-Graber, 2020; Niculae, Kumar, Boyd-Graber, & Danescu-Niculescu-Mizil, 2015 ) for the permission to use the original data behind this task. Thank you!
 
 
 ## Organizers
