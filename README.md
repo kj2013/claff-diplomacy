@@ -1,10 +1,10 @@
-# CL-Aff Shared Task: GoTeam (Deadline Nov 2020)
+# CL-Aff Shared Task: Diplomacy (Deadline Nov 2020)
 
-Corpus and annotations for the CL-Aff Shared Task - GoTeam - from the National University of Singapore
+Corpus and annotations for the CL-Aff Shared Task - Diplomacy - from the National University of Singapore
 
 A part of the AffCon Workshop @ AAAI 2021 for Affect in Collaborative Creation
 
-We introduce the CLAff-GoTeam dataset this year, which examines the role of affect in inter- and intra-team trust. It builds on the Diplomacy dataset () with additional annotations, and derived outcomes related to collaborations.
+We introduce the CLAff-Diplomacy dataset this year, which examines the role of affect in inter- and intra-team trust. It builds on the Diplomacy dataset (Peskov, Cheng, Elgohary, Barrow, Danescu-Niculescu-Mizil, & Boyd-Graber, 2020; Niculae, Kumar, Boyd-Graber, & Danescu-Niculescu-Mizil, 2015 ) with additional annotations, and derived outcomes related to collaboration.
 
 **Registration Deadline Nov 4, 2020** 
 
@@ -24,7 +24,7 @@ TASK 2: Unsupervised task: Explore the relationship between rapport and the rece
 
 **Unlabeled training set** : RELEASED! The Diplomacy dataset from (http://vene.ro/betrayal/)
 
-**Labeled training set** : ETA Oct 20, 2020
+**Labeled training set** : RELEASED! 10,000 sentences labeled for their rapport-related characteristics!
 
 **Test set:** ETA Nov 20, 2020. Only released to registered participants.
 
@@ -103,7 +103,7 @@ If you use the data and publish, please let us know and cite the original Diplom
 
 Niculae, V., Kumar, S., Boyd-Graber, J., & Danescu-Niculescu-Mizil, C. (2015, July). Linguistic Harbingers of Betrayal: A Case Study on an Online Strategy Game. In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 1650-1659).
 
-Peskov, D., Cheng, B., Elgohary, A., Barrow, J., Danescu-Niculescu-Mizil, C., & Boyd-Graber, J. (2020). It Takes Two to Lie: One to Lie, and One to Listen.
+Peskov, D., Cheng, B., Elgohary, A., Barrow, J., Danescu-Niculescu-Mizil, C., & Boyd-Graber, J. (2020). It Takes Two to Lie: One to Lie, and One to Listen. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
 
 ## Acknowledgement
 

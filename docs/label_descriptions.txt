@@ -1,15 +1,3 @@
-GAME MOVE
-The sender states an actual or suggested game move by the sender or the receiver. It might also be in the form of an acceptance, a question, or a clarification.	
-I'm attempting to make that deal with russia now
-I am committed to supporting Munich holding;
-I think the most important thing for you right now is getting England fully committed against France
-Why would you want me to strike war with England?
-Make sure you don't move Munich so that it can take my support.
-"
-I think the most important thing for you right now is getting England fully committed against France
-I suggest that you order: Kiel support Berlin holding...
-I strongly recommend it.
-
 
 BUILDING A RAPPORT = TRUE
 In this statement, the sender wants to build a rapport with the receiver through "you and me" dialogue and personal information sharing. This might also comprise compliments, sharing honest concerns, reassurances, or apologies.	
