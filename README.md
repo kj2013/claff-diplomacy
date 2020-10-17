@@ -16,7 +16,7 @@ Our dataset is available under CC BY 4.0 license (https://creativecommons.org/li
 
 GIVEN: Utterances by players in an online game called Diplomacy, labeled for their rapport characteristics.
 
-TASK 1 : Semi-supervised learning task: Predict labels for how the speaker is building a rapport, based on a small labeled and large unlabeled training data.
+TASK 1 : Semi-supervised learning task: Predict labels for whether the speaker is building interpersonal rapport, based on a small labeled and large unlabeled training data.
 
 TASK 2: Unsupervised task: Explore the relationship between rapport and the receiver's trust labels.
 
