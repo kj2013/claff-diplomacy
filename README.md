@@ -77,7 +77,7 @@ Directory containing unlabeled data pertaining to the training and the test sets
 
     ./data/labeled training data
   
-To be added, directory containing the training set.
+Added! Directory containing the training set.
 
 
     TEST DATA?
