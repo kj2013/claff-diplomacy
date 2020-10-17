@@ -4,7 +4,7 @@ Corpus and annotations for the CL-Aff Shared Task - Diplomacy - from the Nationa
 
 A part of the AffCon Workshop @ AAAI 2021 for Affect in Collaborative Creation
 
-We introduce the CLAff-Diplomacy dataset this year, which examines the role of affect in inter- and intra-team trust. It builds on the Diplomacy dataset (Peskov, Cheng, Elgohary, Barrow, Danescu-Niculescu-Mizil, & Boyd-Graber, 2020; Niculae, Kumar, Boyd-Graber, & Danescu-Niculescu-Mizil, 2015 ) with additional annotations, and derived outcomes related to collaboration.
+We introduce the CLAff-Diplomacy dataset this year, which examines the role of affect in inter- and intra-team trust. It builds on the Diplomacy dataset (Peskov, Cheng, Elgohary, Barrow, Danescu-Niculescu-Mizil, & Boyd-Graber, 2020; Niculae, Kumar, Boyd-Graber, & Danescu-Niculescu-Mizil, 2015 ) with additional annotations, and derived outcomes related to collaboration. This dataset is in English.
 
 **Registration Deadline Nov 4, 2020** 
 
