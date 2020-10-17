@@ -12,22 +12,17 @@ Fields prefixed with *affcon_* represent fields that were annotated for Affcon20
 
 |  Data Field |  Explanation |
 |-------------|--------------|
-| *sentence_id  | Index of the sentence  |
-| *affcon.apologies | The sender is apologising to the receiver. ("I should've let you know") |
-| *affcon.compliment | The sender is greeing or paying a compliment to the receiver. ("Good day to you Germany!")|
-| *affcon.personalthoughts |The sender is sharing his personal thoughts to the reciever. ("Let's keep it between you and me!") |
-| *affcon.reassurance | The sender is reassuring the receiver. ("I promise I'll never let you down")|
-| *affcon.rapport |The speaker wants to build a rapport with the receiver through "you and me" dialogue.  |
 | convo_id | Index of the conversation |
-| train_test_val | Whether the sentence was used in training, testing or validation in the original Diplomacy corpus |
 | msg_id | Index of the sentence in the original Diplomacy dataset |
 | timestamp | Index of the sentence in the game |
 | full_text | Textual content of the sentence |
+| *affcon.rapport |The speaker wants to build a rapport with the receiver through "you and me" dialogue.  |
+| sentence_id  | Index of the sentence  |
 | speaker | The player who authored the sentence |
 | reply_to | Index of the sentence to which this is a reply to (None if the sentence is not a reply) |
 | speaker_intention |“Lie” if the speaker indicated this message was intended to deceive, “Truth” otherwise; this label was provided by the speaker at the time they composed the message. |
-| reciever_perception | “Lie” if the receiver indicated that they perceived it as deceiving , “Truth” if the receiver indicated that the message was perceived as truthful, None if the receiver did not indicate anything; this label was provided by the receiver at the time they received the message. |
-| reciever | The player whom the sentence was directed towards |
+| receiver_perception | “Lie” if the receiver indicated that they perceived it as deceiving , “Truth” if the receiver indicated that the message was perceived as truthful, None if the receiver did not indicate anything; this label was provided by the receiver at the time they received the message. |
+| receiver | The player whom the sentence was directed towards |
 | absolute_message_index | Index of the utterance in the current conversation |
 | relative_message_index | Index of the utterance in the game (same as timestamp) |
 | year | Diplomacy-year in which the message was sent |

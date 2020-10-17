@@ -24,9 +24,18 @@ TASK 2: Unsupervised task: Explore the relationship between rapport and the rece
 
 **Unlabeled training set** : RELEASED! The Diplomacy dataset from (http://vene.ro/betrayal/)
 
-**Labeled training set** : RELEASED! 10,000 sentences labeled for their rapport-related characteristics!
+**Labeled training set** : RELEASED! 10,032 sentences labeled for indicators of rapport-building!
 
 **Test set:** ETA Nov 20, 2020. Only released to registered participants.
+
+
+
+Five annotators were asked to indicate the overall presence of rapport, and then the presence of its subcategories.
+For the purpose of this task, only the overall score for rapport is being used in the task, where the overall percentage agreement was 75.8%. Annotations for the subcategories were used as an additional filter to denoise the annotations and identify false positives. A final check was performed by the Shared Task organizer to ensure data quality.
+
+Even so, errors may have slipped in. In the spirit of a Shared Task, we'd appreciate any support to help us further clean up the annotations. Thank you!.
+
+
 
 
 ## Label descriptions
