@@ -24,7 +24,7 @@ TASK 2: Unsupervised task: Explore the relationship between rapport and the rece
 
 **Unlabeled training set** : RELEASED! The Diplomacy dataset from (http://vene.ro/betrayal/)
 
-**Labeled training set** : RELEASED! 10,032 sentences labeled for indicators of rapport-building!
+**Labeled training set** : RELEASED! 9,858 sentences labeled for indicators of rapport-building!
 
 **Test set:** ETA Nov 20, 2020. Only released to registered participants.
 
